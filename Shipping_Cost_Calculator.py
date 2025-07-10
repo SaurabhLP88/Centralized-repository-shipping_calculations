@@ -12,4 +12,3 @@ print(f"Weight: {weight} pounds")
 print(f"Rate: {rate} USD")
 print(f"Shipping Cost: {shipping_cost} USD")
 
- # Here is a new update by SaurabhLP88
